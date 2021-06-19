@@ -1,0 +1,12 @@
+{"Data":[{"id":0,"title":"rx550","price":100,"powerConsumption":75,"hashRate":[1,30,46,44],"hp":100},
+{"id":1,"title":"rx560","price":120,"powerConsumption":100,"hashRate":[2,45,50,60],"hp":100},
+{"id":2,"title":"gtx1050","price":120,"powerConsumption":75,"hashRate":[3,40,50,60],"hp":100},
+{"id":3,"title":"gtx1050ti","price":150,"powerConsumption":100,"hashRate":[6,60,50,60],"hp":100},
+{"id":4,"title":"rx570","price":170,"powerConsumption":150,"hashRate":[8,65,65,60],"hp":100},
+{"id":5,"title":"rx580","price":200,"powerConsumption":170,"hashRate":[11,80,50,60],"hp":100},
+{"id":6,"title":"gtx1060","price":230,"powerConsumption":160,"hashRate":[12,75,50,60],"hp":100},
+{"id":7,"title":"gtx1070","price":300,"powerConsumption":180,"hashRate":[16,95,50,60],"hp":100},
+{"id":8,"title":"vega56","price":400,"powerConsumption":200,"hashRate":[18,90,50,60],"hp":100},
+{"id":9,"title":"vega64","price":900,"powerConsumption":230,"hashRate":[30,120,50,60],"hp":100},
+{"id":10,"title":"gtx1080","price":1000,"powerConsumption":220,"hashRate":[28,110,50,60],"hp":100},
+{"id":11,"title":"gtx1080ti","price":1200,"powerConsumption":250,"hashRate":[30,130,50,60],"hp":100}]}
